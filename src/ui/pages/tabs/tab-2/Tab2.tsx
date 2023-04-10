@@ -49,7 +49,7 @@ const Tab2:React.FC = () => {
   };
 
   if(!profile){
-    return <div>Loading</div>;
+    return <div>Loading :</div>;
   }
   
     return(
